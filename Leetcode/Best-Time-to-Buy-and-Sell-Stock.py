@@ -41,4 +41,6 @@ class Solution:
 """
 The algorithm above has a time complexity of 0(n)
 and a space complexity of 0(1)
+----------------------------------------------
+ARRAY --- EASY
 """

@@ -38,4 +38,6 @@ The algorithm above has a space complexity of 0(n)
 and a time complexity of 0(n)
 The #in operation on line 28 is apparently 0(1) as explained here:
 https://stackoverflow.com/questions/17539367/python-dictionary-keys-in-complexity
+----------------------------------------------
+ARRAY --- EASY
 """
