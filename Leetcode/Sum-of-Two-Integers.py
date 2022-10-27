@@ -57,6 +57,16 @@ class Solution:
                 return a
 
 
+# WARNING!!!
+"""
+While this algorithm is Technically Correct, you will run into time limit exceeded
+errors because of the way Python implements its int class.
+(it's an infinite lenght bit integer) while that makes Python very good at handling
+big numbers, it also means its super inefficient at smaller numbers.
+----------------------------------------
+You're better off using a statically typed language for this task.
+"""
+
 """
 The algorithm above has a time complexity of 0(1)
 and a space complexity of 0(1)
