@@ -12,7 +12,7 @@ Output: true
 
 
 class Solution:
-    def containsDuplicate(self, nums: List[int]) -> bool:
+    def containsDuplicate(self, nums: list[int]) -> bool:
         # initialize hash map to store key value pairs
         my_dict = {}
 

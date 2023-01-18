@@ -84,6 +84,8 @@ class Solution:
 
         """
         We define all 26 letters in the alphabet
+        - The order of letters is set according to the most popular
+        letters in a dictionary https://en.wikipedia.org/wiki/Letter_frequency
         """
         letters = 'esiarntolcdugpmhbyfvkwzxjq'
 
